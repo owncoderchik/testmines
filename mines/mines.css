@@ -21,6 +21,21 @@ body {
 }
 
 
+.header-text {
+    text-align: center;
+    font-family: 'Universal Serif [RUS by Daymari', sans-serif;
+    src: url('uni.ttf') format('truetype');
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 20px 0;
+    background-color: #333;
+    width: 100%;
+    position: relative;
+    z-index: 10;
+}
+
+
 .logos2 {
   display: flex; 
   justify-content: center;
