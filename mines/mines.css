@@ -22,17 +22,20 @@ body {
 
 
 .header-text {
+    margin-top: -42px;
     text-align: center;
     font-family: 'Universal Serif [RUS by Daymari', sans-serif;
     src: url('uni.ttf') format('truetype');
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 25px;
+    font-weight: normal;
     color: #ffffff;
     padding: 20px 0;
-    background-color: #333;
     width: 100%;
-    position: relative;
+    position: absolute;
     z-index: 10;
+    text-shadow:
+      0 0 5px #3efcff,
+      0 0 10px #3efcff;
 }
 
 
