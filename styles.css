@@ -31,6 +31,21 @@ body {
     animation: twinkle var(--duration) infinite alternate;
 }
 
+.header-text {
+    margin-top: -42px;
+    text-align: center;
+    font-family: 'Intro', sans-serif;
+    src: url('intro.otf') format('truetype');
+    font-size: 25px;
+    font-weight: normal;
+    color: #ffffff;
+    padding: 20px 0;
+    width: 100%;
+    position: absolute;
+    z-index: 10;
+    text-shadow: 0 0 10px #ffffff94;
+}
+
 @keyframes twinkle {
     0%, 100% { opacity: 0.2; }
     50% { opacity: 1; }
