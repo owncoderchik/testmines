@@ -24,8 +24,8 @@ body {
 .header-text {
     margin-top: -42px;
     text-align: center;
-    font-family: 'Universal Serif [RUS by Daymari', sans-serif;
-    src: url('uni.ttf') format('truetype');
+    font-family: 'Intro', sans-serif;
+    src: url('intro.otf') format('truetype');
     font-size: 25px;
     font-weight: normal;
     color: #ffffff;
