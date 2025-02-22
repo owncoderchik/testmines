@@ -32,11 +32,11 @@ body {
 }
 
 .header-text {
-    margin-top: -42px;
+    margin-top: -30px;
     text-align: center;
     font-family: 'Intro', sans-serif;
     src: url('intro.otf') format('truetype');
-    font-size: 25px;
+    font-size: 20px;
     font-weight: normal;
     color: #ffffff;
     padding: 20px 0;
